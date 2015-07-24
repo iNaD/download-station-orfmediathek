@@ -1,0 +1,10 @@
+{
+    "name": "orfmediathek",
+    "hostprefix": "tvthek.orf.at",
+    "displayname": "ORF Mediathek",
+    "version": "0.1a",
+    "authentication": "no",
+    "module": "orfmediathek.php",
+    "class": "SynoFileHostingORF",
+    "description": "Download Videos from ORF Mediathek"
+}
